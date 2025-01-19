@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container1{
+    width: 50vh;
+    height: 200vh;
+    background-color: black;
+   
+}
+
+/* .tred-container{
+    height: 30vh;
+    width: 25vw;
+    border: 1px solid black;
+
+} */
